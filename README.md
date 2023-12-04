@@ -1,6 +1,6 @@
 # vadapav.mov API Documentation
 
-Welcome to the Vadapav API documentation! This API is designed for accessing and managing a collection of movies and TV series. Below, you'll find detailed information about the available endpoints and how to use them.
+This API is designed for accessing collection of movies and TV series. Below, you'll find detailed information about the available endpoints and how to use them.
 
 ## Base URL
 
